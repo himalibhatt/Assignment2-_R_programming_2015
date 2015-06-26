@@ -1,2 +1,0 @@
-# Assignment2-_R_programming_2015
-## Assignment: Caching the Inverse of a Matrix   In this assignment, two functions have been created to get the inverse of a matrix.  1. makeCacheMatrix: This function 1  creates a special "matrix" object that can cache its inverse.  2.  cacheSolve: This function 2 computes the inverse of the special "matrix" returned by makeCacheMatrix above. If the inverse has already been calculated (and the matrix has not changed), then cacheSolve  retrieve the inverse from the cache.
